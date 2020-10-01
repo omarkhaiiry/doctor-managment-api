@@ -1,7 +1,7 @@
 # doctors-patients-api
 simple restful API built with Spring boot
-Simple registration for doctors and patients.
-Patients can make appointments with available doctors.
+Registration for doctors and patients.
+Patients can reserve appointments
 
 # username 
 omar
